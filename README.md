@@ -1,4 +1,4 @@
-![](https://github.com/JimmyRSlab/Complementarity-aware-Feature-Fusion-for-Aircraft-Detection-via-Unpaired-Opt2SAR-Image-Translation/raw/master/overall.png)
+![](https://github.com/JimmyRSlab/Complementarity-aware-Feature-Fusion-for-Aircraft-Detection-via-Unpaired-Opt2SAR-Image-Translation/raw/main/overall.png)
 
 Installation
 ======
