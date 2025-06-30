@@ -10,3 +10,6 @@ For SFEG, the folder SFEG/datasets/opt2sar_Aircraft consists of six subfolders: 
 ## CFFDNet
 For CFFDNet, the folder CFFDNet/datasets/yout_dataset_name consists of three subfolders: annotations, train, and val. Annotations store the coco format JSON labels for the training and validation sets, while optical and sar subfolders are placed under both train and val to store the two modalites images.
 
+Acknowledgments
+=====
+Our code is inspired by https://github.com/NNNNerd/Triple-I-Net-TINet?tab=readme-ov-file and https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
