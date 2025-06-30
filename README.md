@@ -18,3 +18,18 @@ For CFFDNet, the folder CFFDNet/datasets/yout_dataset_name consists of three sub
 Acknowledgments
 =====
 Our code is inspired by https://github.com/NNNNerd/Triple-I-Net-TINet?tab=readme-ov-file and https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.
+
+Citation
+=====
+```
+@ARTICLE{11036138,
+  author={Hu, Jianming and Li, Yuelong and Zhi, Xiyang and Shi, Tianjun and Zhang, Wei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Complementarity-Aware Feature Fusion for Aircraft Detection via Unpaired Opt2SAR Image Translation}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-19},
+  keywords={Feature extraction;Translation;Aircraft;Optical sensors;Optical imaging;Optical scattering;Radar polarimetry;Training;Atmospheric modeling;Remote sensing;Aircraft detection;complementarity-aware feature fusion;image translation;optical and synthetic aperture radar (SAR);remote sensing scene},
+  doi={10.1109/TGRS.2025.3578876}}
+```
